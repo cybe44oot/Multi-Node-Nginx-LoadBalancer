@@ -7,6 +7,7 @@ This project demonstrates how to build a **scalable Node.js app** using **Docker
 ## 📂 Project Structure
 
 Multi-Node-Nginx-LoadBalancer/
+
 ── app/
 
 │ ├── index.html
